@@ -102,6 +102,9 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
   <a href="https://www.linkedin.com/in/onur-ar%C4%B1kan-42aa70254/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </p>
 <hr>
-
-<br><br>
+<p>
+  
+  ![](https://komarev.com/ghpvc/?username=10onru&color=orange&style=for-the-badge&label=Visitors)
+</p>
+<hr>
 <p><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
