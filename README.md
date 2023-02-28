@@ -17,6 +17,21 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
 <hr>
 <br>
 <h2><img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width="125"></h2>
-<details><summary>Languages</summary>
+<details><summary>𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘</summary>
+  <br>
+  <p>
+    
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
+    
+  </p>
+  <br>
 </details>
+
+<br><br>
+<p><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
