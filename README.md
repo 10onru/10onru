@@ -1,11 +1,10 @@
-<h3 align="center"><img src="https://media.giphy.com/media/fLyd6CqqvNtdu1yCQA/giphy.gif" width="250px"> <br><br>
+<h3 align="center"><img src="https://media.giphy.com/media/zlPCvj372M31bncd5v/giphy.gif" width="150px"> <br>
 I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
 <br>
+<p align=center><img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="150px"></p>
 <hr>
-<br>
-<h2><img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="45px"><i> About Me </i></h2>
-<br>
-<img src="https://media.giphy.com/media/l0iVAuEtPF5KRbqmvd/giphy.gif" align="right" width="150px">
+<h3><img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="45px"><i> About Me </i></h3><br>
+<img src="https://media.giphy.com/media/l0iVAuEtPF5KRbqmvd/giphy.gif" align=right width="125px">
 <ul>
   <li>I'm a second class student of <a href="https://mf-bm.gazi.edu.tr/">Gazi University & CENG</a> </li>
   <li>I have an extra attention <b>to google</b> something </li>
@@ -13,10 +12,8 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
   <li>I'm currently working on <b>Computer Science & Full Stack & Penetration </b> </li>
   <li>I’m available for <b>freelancing & job opportunities</b> </li>
 </ul>
-<br>
 <hr>
-<br>
-<h2><img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width="125"></h2><br>
+<h3><img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width="125"></h3><br>
 <details><summary><b><i>Languages</i></b></summary>
   <br>
   <p>
@@ -88,11 +85,23 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
   <br>
 </details>
 
-<br>
 <hr>
-<br>
 
-<h2><img src="https://media.giphy.com/media/84l5QFD4NcSAchQt6x/giphy.gif" width="125"></h2><br>
+<h3><img src="https://media.giphy.com/media/84l5QFD4NcSAchQt6x/giphy.gif" width="125"></h3>
+<p>
+  
+  ![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</p>
+<p>onur_arikan2002@hotmail.com</p>
+<p>
+  
+  <a href="https://www.instagram.com/onur.arikann/" target="_blank">![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+</p>
+<p>
+  
+  <a href="https://www.linkedin.com/in/onur-ar%C4%B1kan-42aa70254/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+</p>
+<hr>
 
 <br><br>
 <p><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
