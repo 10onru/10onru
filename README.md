@@ -1,7 +1,6 @@
 <h3 align="center"><img src="https://media.giphy.com/media/zlPCvj372M31bncd5v/giphy.gif" width="150px"> <br>
 I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
 <br>
-<p align=center><img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="150px"></p>
 <hr>
 <h3><img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="45px"><i> About Me </i></h3><br>
 <img src="https://media.giphy.com/media/l0iVAuEtPF5KRbqmvd/giphy.gif" align=right width="125px">
