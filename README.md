@@ -89,8 +89,8 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
 <h4 align="center">
   
   <a href="mailto:onur_arikan2002@hotmail.com" target="_blank">![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red)</a>
-  <a href="https://www.instagram.com/onur.arikann/" target="_blank">![Instagram](https://img.shields.io/badge/onur.arikann-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-  <a href="https://www.linkedin.com/in/onur-ar%C4%B1kan-42aa70254/" target="_blank">![LinkedIn](https://img.shields.io/badge/Onur_Arikan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.instagram.com/onur.arikann/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/onur-ar%C4%B1kan-42aa70254/" target="_blank">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </h4>
 <hr>
 <p>
