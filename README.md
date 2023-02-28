@@ -3,7 +3,6 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
 <br>
 <hr>
 <h3><img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="45px"><i> About Me </i></h3><br>
-<img src="https://media.giphy.com/media/l0iVAuEtPF5KRbqmvd/giphy.gif" align=right width="125px">
 <ul>
   <li>I'm a second class student of <a href="https://mf-bm.gazi.edu.tr/">Gazi University & CENG</a> </li>
   <li>I have an extra attention <b>to google</b> something </li>
@@ -15,7 +14,7 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
 <h3><img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width="125"></h3><br>
 <details><summary><b><i>Languages</i></b></summary>
   <br>
-  <p>
+  <h4 align="center">
     
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -25,24 +24,24 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
     
-  </p>
+  </h4>
   <br>
 </details>
 
 <details><summary><b><i>Photoshop Apps</i></b></summary>
   <br>
-  <p>
+  <h4 align="center">
     
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
   
-  </p>
+  </h4>
   <br>
 </details>
 
 <details><summary><b><i>Useful Forms & Sites</i></b></summary>
   <br>
-  <p>
+  <h4 align="center">
     
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
   ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
@@ -53,13 +52,13 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
   
     
-  </p>
+  </h4>
   <br>
 </details>
 
 <details><summary><b><i>Office</i></b></summary>
   <br>
-  <p>
+  <h4 align="center">
     
   ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -67,38 +66,32 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
   ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
   ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
   
-  </p>
+  </h4>
   <br>
 </details>
 
 <details><summary><b><i>Operating System</i></b></summary>
   <br>
-  <p>
+  <h4 align="center">
     
   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
-  </p>
+  </h4>
   <br>
 </details>
 
 <hr>
 
-<h3><img src="https://media.giphy.com/media/84l5QFD4NcSAchQt6x/giphy.gif" width="125"></h3>
-<p>
+<h3><img src="https://media.giphy.com/media/H7a4nMx9Zdhvm2HySH/giphy.gif" width="50px"><i><b>Contact</b></i></h3>
+<h4 align="center">
   
-  ![Gmail](https://img.shields.io/badge/@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=onur+_+arikan2002&labelColor=red&color=red)
-</p>
-<p>
-  
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsFDFFDsKzzkXszNPVdNRWtpzTZKVBNnSHrVdmQbcVKsxjCpPVhHGtTVPpQBSpBTLTfDv" target="_blank">![Gmail](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red)</a>
   <a href="https://www.instagram.com/onur.arikann/" target="_blank">![Instagram](https://img.shields.io/badge/onur.arikann-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-</p>
-<p>
-  
   <a href="https://www.linkedin.com/in/onur-ar%C4%B1kan-42aa70254/" target="_blank">![LinkedIn](https://img.shields.io/badge/Onur_Arikan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-</p>
+</h4>
 <hr>
 <p>
   
