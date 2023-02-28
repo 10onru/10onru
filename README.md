@@ -102,7 +102,7 @@ I'm Onur, <br><br> JR Cyber Security Analyst & Student for Gazi CENG </h3>
 <hr>
 <p>
   
-  ![](https://komarev.com/ghpvc/?username=10onru&color=orange&style=for-the-badge&label=Visitors)
+  ![](https://komarev.com/ghpvc/?username=10onru&color=blue&style=for-the-badge&label=Visitors)
 </p>
 <hr>
 <p><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
