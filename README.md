@@ -1,10 +1,10 @@
 <h3 align="center"><img src="https://media.giphy.com/media/zlPCvj372M31bncd5v/giphy.gif" width="150px"> <br>
-I'm Onur, <br><br> JR Cyber Security Analyst </h3>
+I'm Onur, <br><br> Cyber Security Analyst in Training </h3>
 <br>
 <hr>
 <h3><img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="45px"><i> About Me </i></h3><br>
 <ul>
-  <li>I'm a second class student of <a href="https://mf-bm.gazi.edu.tr/">Gazi University & CENG</a> </li>
+  <li>I'm a third class student of <a href="https://mf-bm.gazi.edu.tr/">Gazi University & CENG</a> </li>
   <li>I have an extra attention <b>to google</b> something </li>
   <li>I have curiosity on <strong>Web App & Network</strong> </li>
   <li>I'm currently working on <b>Computer Science & Full Stack & Penetration </b> </li>
